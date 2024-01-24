@@ -24,7 +24,7 @@ subProjects:
     template: "Fabric"
     replacements:
       dependencies: '
-          modImplementation "maven.modrinth:immediatelyfast:1.2.8+1.20.4"
+          modImplementation "maven.modrinth:immediatelyfast:1.2.8+1.20.4-fabric"
 
           modImplementation "maven.modrinth:spark:FeV5OquF"
 
